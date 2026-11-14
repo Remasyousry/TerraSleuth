@@ -1,6 +1,6 @@
 # 🌍 TerraSleuth
 
-> *Solve Earth's mysteries, one data point at a time.*
+
 
 NASA Space Apps Challenge 2026 — **Be an Earth System Trend Detective**.
 
@@ -31,11 +31,9 @@ data/fallback/            Cached CSVs
 docs/TEAM_TASKS.md        Roles + Definition of Done
 ```
 
-## Limitations (honesty = points)
-Linear/monotonic trends only · no seasonal adjustment · significance ≠ causation.
+
 
 ## Data
 NASA GPM, MODIS, MERRA-2, GLDAS via Google Earth Engine.
 
-## Team
-_Add names here._
+
